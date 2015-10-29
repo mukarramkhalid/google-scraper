@@ -1,5 +1,18 @@
-# google-scraper
-[Python] Google Scraper &amp; Mass Exploiter with Multiprocessing Features
+# [Python] Making Your Own Google Scraper & Mass Exploiter
 
-
-http://mukarramkhalid.com/python-making-your-own-google-scraper-mass-exploiter/
+**Date**  
+    - 25-10-2015  
+**Requirements**  
+    - Python 3.4.x or higher, Requests module, Beautifulsoup4, docopt  
+**Author**  
+    - Mukarram Khalid  
+**Home Page**  
+    - mukarramkhalid.com  
+**Tested on**  
+    - Windows 8.1 / Ubuntu 14.04  
+**Blog Post**  
+    - http://mukarramkhalid.com/python-making-your-own-google-scraper-mass-exploiter/    
+  
+  
+![Preview]
+(http://mukarramkhalid.com/wp-content/uploads/2015/08/final3.png)
