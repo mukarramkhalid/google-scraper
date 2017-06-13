@@ -11,8 +11,7 @@
 **Tested on**  
     - Windows 8.1 / Ubuntu 14.04  
 **Blog Post**  
-    - http://mukarramkhalid.com/python-making-your-own-google-scraper-mass-exploiter/    
+    - https://mukarramkhalid.com/python-making-your-own-google-scraper-mass-exploiter/    
   
   
-![Preview]
-(http://mukarramkhalid.com/wp-content/uploads/2015/08/final3.png)
+![Preview](https://mukarramkhalid.com/wp-content/uploads/2015/08/final3.png)
