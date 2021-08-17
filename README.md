@@ -14,4 +14,4 @@
     - https://mukarramkhalid.com/python-making-your-own-google-scraper-mass-exploiter/    
   
   
-![Preview](https://mukarramkhalid.com/wp-content/uploads/2015/08/final3.png)
+![Preview](https://mukarramkhalid.com/assets/images/blog/posts/python-making-your-own-google-scraper-mass-exploiter/final3.png)
